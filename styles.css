@@ -1,0 +1,32 @@
+/* TODO: your styles goes here*/
+
+ul, li, p {
+    margin: 1px 1px 0 20px;
+    padding: 5px 0;
+    list-style-type:none;
+    border: 1px solid black;
+}
+
+ul {
+    background-color: aqua;
+    display: block;
+}
+
+li {
+    background-color: blue;
+}
+
+p {
+    background-color: brown;
+    display: block;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: block; 
+    /* none */
+}
+ 
